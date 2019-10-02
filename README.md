@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Chat em real-time utilizando Socket.IO.
+Chat em real-time utilizando NodeJS e Socket.IO.
 
 ## Principais recursos
 
